@@ -31,7 +31,7 @@
 
 ### Courses:
 <!-- COURSES-LIST:START -->
-- [TeachMeSkills.iOS Разработчик](https://teachmeskills.by/)
+- [TeachMeSkills. iOS Разработчик](https://teachmeskills.by/)
 - [SWIFT Марафон: Alex Skutarenko](https://youtube.com/playlist?list=PL6724Ll8v6UhOq6Otjw-rUPFsZVmoCLFm)
 - [[OTUS] iOS-разработчик. Базовый курс (2020)](https://webtricks-master.ru/react-hooks/custom-hooks-na-primerah-pishem-svoj-useinput-usefetch-usetheme-react-hooks/)
 <!-- COURSES-LIST:END -->
