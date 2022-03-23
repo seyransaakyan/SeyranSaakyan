@@ -11,9 +11,9 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Seyran Saakyan | Telegram" width="22px" src="https://static.tildacdn.com/tild3134-6130-4630-a465-396432363262/telegram-logo.png" />][tg]
-[<img align="left" alt="SeyranSaakyan | VK" width="22px" src="https://e7.pngegg.com/pngimages/122/199/png-clipart-computer-icons-vkontakte-vk-angle-text.png" />][vk]
-[<img align="left" alt="SeyranSaakyan | Instagram" width="22px" src="https://e-v-a.net/wp-content/uploads/2017/03/insta.jpg" />][instagram]
+[<img align="left" alt="Seyran Saakyan | Telegram" width="22px" src="https://proxym.net/wp-content/uploads/2014/09/kak-nastroit-proxy-Telegram.png" />][tg]
+[<img align="left" alt="SeyranSaakyan | VK" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vk.svg" />][vk]
+[<img align="left" alt="SeyranSaakyan | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 
