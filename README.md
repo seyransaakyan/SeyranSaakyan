@@ -6,7 +6,7 @@
 - 💪 I like to write code
 - 🎉 I am crazy about eSports
 - 🥅 I am constantly learning new things
-- ⚡ I do something for vk.com/lanstats and prosquad.ru
+- ⚡ I do something for [Lanstats](vk.com/lanstats) and prosquad.ru
 - 🤹🏽 I like to shoot videos for youtube 
 
 ### Connect with me:
