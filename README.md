@@ -1,10 +1,10 @@
-### Hi there 👋, I'm Vlad
+### Hi there 👋, I'm Seyran
 
 ![](https://komarev.com/ghpvc/?username=VladKalachev)
 
-## I'm a FrontEnd Developer, and Teacher
+## I'm an IOS Developer, and Project Manager
 - 💪 I like to write code
-- 🎉 I love to paint and play the guitar
+- 🎉 I love to do sports
 - 🥅 I am constantly learning new things
 - ⚡ I love writing an article for https://webtricks-master.ru/
 - 🤹🏽 I like to shoot videos for youtube 
