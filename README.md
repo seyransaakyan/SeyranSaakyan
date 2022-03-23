@@ -36,7 +36,7 @@
 - [[OTUS] iOS-разработчик. Базовый курс (2020)](https://webtricks-master.ru/react-hooks/custom-hooks-na-primerah-pishem-svoj-useinput-usefetch-usetheme-react-hooks/)
 <!-- COURSES-LIST:END -->
 
-### My YouTube Videos:
+### My Apps and Projects:
 <!-- YOUTUBE:START -->
 - [Как найти работу джуну без опыта? пошаговая инструкция](https://www.youtube.com/watch?v=DzyKrIBHln8)
 - [Пишем список задач на React &lpar;React Hooks&rpar;](https://www.youtube.com/watch?v=XwIiBXZ41Os)
