@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Seyran
 
-![](https://komarev.com/ghpvc/?username=VladKalachev)
+![](https://komarev.com/ghpvc/?username=seyransaakyan)
 
 ## I'm an IOS Developer, and Project Manager
 - 💪 I like to write code
