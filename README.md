@@ -2,7 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=seyransaakyan)
 
-## I'm an IOS Developer, and Project Manager
+## I'm an iOS Developer, and Project Manager
 - 💪 I like to write code
 - 🎉 I am crazy about eSports
 - 🥅 I am constantly learning new things
@@ -29,9 +29,9 @@
 <br />
 <br />
 
-### Blog posts:
+### Courses:
 <!-- BLOG-POST-LIST:START -->
-- [Деструктуризация в JavaScript](https://webtricks-master.ru/javascript/destrukturizatsiya-v-javascript/)
+- [TeachMeSkills.iOS Разработчик](https://webtricks-master.ru/javascript/destrukturizatsiya-v-javascript/)
 - [Пишем список задач на React Hooks](https://webtricks-master.ru/react-hooks/pishem-spisok-zadach-na-react-hooks/)
 - [Custom Hooks на примерах. Пишем свой useInput, useFetch, useTheme — React Hooks](https://webtricks-master.ru/react-hooks/custom-hooks-na-primerah-pishem-svoj-useinput-usefetch-usetheme-react-hooks/)
 - [Как подключить Sass к React?](https://webtricks-master.ru/beginners/kak-podklyuchit-sass-k-react/)
