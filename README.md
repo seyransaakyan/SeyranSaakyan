@@ -30,13 +30,11 @@
 <br />
 
 ### Courses:
-<!-- BLOG-POST-LIST:START -->
-- [TeachMeSkills.iOS Разработчик](https://webtricks-master.ru/javascript/destrukturizatsiya-v-javascript/)
-- [Пишем список задач на React Hooks](https://webtricks-master.ru/react-hooks/pishem-spisok-zadach-na-react-hooks/)
-- [Custom Hooks на примерах. Пишем свой useInput, useFetch, useTheme — React Hooks](https://webtricks-master.ru/react-hooks/custom-hooks-na-primerah-pishem-svoj-useinput-usefetch-usetheme-react-hooks/)
-- [Как подключить Sass к React?](https://webtricks-master.ru/beginners/kak-podklyuchit-sass-k-react/)
-- [Обзор VSCode Stories. Плагины Visual Studio Code](https://webtricks-master.ru/novosti-it/obzor-vscode-stories-plaginy-visual-studio-code/)
-<!-- BLOG-POST-LIST:END -->
+<!-- COURSES-LIST:START -->
+- [TeachMeSkills.iOS Разработчик](https://teachmeskills.by/)
+- [SWIFT Марафон: Alex Skutarenko](https://youtube.com/playlist?list=PL6724Ll8v6UhOq6Otjw-rUPFsZVmoCLFm)
+- [[OTUS] iOS-разработчик. Базовый курс (2020)](https://webtricks-master.ru/react-hooks/custom-hooks-na-primerah-pishem-svoj-useinput-usefetch-usetheme-react-hooks/)
+<!-- COURSES-LIST:END -->
 
 ### My YouTube Videos:
 <!-- YOUTUBE:START -->
