@@ -13,7 +13,7 @@
 
 [<img align="left" alt="Seyran Saakyan | Telegram" width="22px" src="https://static.tildacdn.com/tild3134-6130-4630-a465-396432363262/telegram-logo.png" />][tg]
 [<img align="left" alt="SeyranSaakyan | VK" width="22px" src="https://e7.pngegg.com/pngimages/122/199/png-clipart-computer-icons-vkontakte-vk-angle-text.png" />][vk]
-[<img align="left" alt="SeyranSaakyan | Instagram" width="22px" src="https://static.tildacdn.com/tild3130-3134-4964-b465-313537666461/insta.png" />][instagram]
+[<img align="left" alt="SeyranSaakyan | Instagram" width="22px" src="https://e-v-a.net/wp-content/uploads/2017/03/insta.jpg" />][instagram]
 
 <br />
 
