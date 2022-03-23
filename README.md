@@ -4,7 +4,7 @@
 
 ## I'm an IOS Developer, and Project Manager
 - 💪 I like to write code
-- 🎉 I love to do sports
+- 🎉 I am crazy about eSports
 - 🥅 I am constantly learning new things
 - ⚡ I love writing an article for https://webtricks-master.ru/
 - 🤹🏽 I like to shoot videos for youtube 
