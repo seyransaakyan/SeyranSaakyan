@@ -6,7 +6,7 @@
 - 💪 I like to write code
 - 🎉 I am crazy about eSports
 - 🥅 I am constantly learning new things
-- ⚡ I do something for [Lanstats](https://vk.com/lanstats) and [launchmakers](https://launchmakers.ru/)
+- ⚡ I do something for [lanstats](https://vk.com/lanstats) and [launchmakers](https://launchmakers.ru/)
 - 🤹🏽 I like to shoot videos for youtube 
 
 ### Connect with me:
