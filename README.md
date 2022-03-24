@@ -2,7 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=seyransaakyan)
 
-## I'm an iOS Developer, and Project Manager
+## I'm an iOS Developer
 - 💪 I like to write code
 - 🎉 I am crazy about eSports
 - 🥅 I am constantly learning new things
