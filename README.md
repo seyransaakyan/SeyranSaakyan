@@ -38,7 +38,7 @@
 
 ### My Apps and Projects:
 <!-- APPS:START -->
-- [MyCard (визитка)](https://www.youtube.com/watch?v=DzyKrIBHln8)
+- [MyCard (визитка)](https://github.com/seyransaakyan/MyCard)
 - [Пишем список задач на React &lpar;React Hooks&rpar;](https://www.youtube.com/watch?v=XwIiBXZ41Os)
 - [Custom Hooks на примерах. Пишем свой useInput, useFetch, useTheme - React Hooks](https://www.youtube.com/watch?v=VFefv_YSGfY)
 - [Учим useLayoutEffect за 6 минут - React Hooks](https://www.youtube.com/watch?v=KaaH6cra2lo)
