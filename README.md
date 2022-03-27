@@ -44,6 +44,9 @@
 - [MySocialNetwork](https://github.com/seyransaakyan/MySocialNetwork)
 <!-- APPS:END -->
 
+### CV
+[CV](https://github.com/seyransaakyan/SeyranSaakyan/blob/main/res.png)
+
 <details>
   <summary>:zap: Statistics:</summary>
    <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seyransaakyan&langs_count=8&layout=compact" />
