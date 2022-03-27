@@ -36,7 +36,7 @@
    <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github.com/seyransaakyan/SeyranSaakyan/blob/main/TeachMeSkills.png" />
 </details>
 <details>
-  <summary>:zap: TeachMeSkills. SWIFT Марафон Alex Skutarenko:</summary>
+  <summary>:zap: SWIFT Марафон Alex Skutarenko:</summary>
    <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github.com/seyransaakyan/SeyranSaakyan/blob/main/SWIFT-%D0%BC%D0%B0%D1%80%D0%B0%D1%84%D0%BE%D0%BD.png" />
 </details>
 - [[OTUS] iOS-разработчик. Базовый курс (2020)](https://webtricks-master.ru/react-hooks/custom-hooks-na-primerah-pishem-svoj-useinput-usefetch-usetheme-react-hooks/)
