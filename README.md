@@ -51,6 +51,7 @@
 - [MyCard (визитка)](https://github.com/seyransaakyan/MyCard)
 - [Calculator](https://github.com/seyransaakyan/Calculator)
 - [MySocialNetwork](https://github.com/seyransaakyan/MySocialNetwork)
+- [CS:GO CUSTOM HUD](https://github.com/Lanstats/CS-GO_hud)
 <!-- APPS:END -->
 
 ### CV
