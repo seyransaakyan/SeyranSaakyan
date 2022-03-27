@@ -41,9 +41,7 @@
 <!-- APPS:START -->
 - [MyCard (визитка)](https://github.com/seyransaakyan/MyCard)
 - [Calculator](https://github.com/seyransaakyan/Calculator)
-- [Custom Hooks на примерах. Пишем свой useInput, useFetch, useTheme - React Hooks](https://www.youtube.com/watch?v=VFefv_YSGfY)
-- [Учим useLayoutEffect за 6 минут - React Hooks](https://www.youtube.com/watch?v=KaaH6cra2lo)
-- [Учим useCallback за 7 минут - React Hooks](https://www.youtube.com/watch?v=AqCkWH4ws1Y)
+- [MySocialNetwork](https://github.com/seyransaakyan/MySocialNetwork)
 <!-- APPS:END -->
 
 <details>
