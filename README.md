@@ -43,7 +43,6 @@
   <summary>:zap: [OTUS] iOS-разработчик. Базовый курс (2020)</summary>
    <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github.com/seyransaakyan/SeyranSaakyan/blob/main/OTUS.png" />
 </details>
-- [iOS Стэнфордский курс. Swift](https://youtube.com/playlist?list=PLSC_CG_Frfp5LRtdP1J7TIvA-eqDHKaex)
 <!-- COURSES-LIST:END -->
 
 ### My Apps and Projects:
