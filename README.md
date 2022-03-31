@@ -54,7 +54,7 @@
 <!-- APPS:END -->
 
 ### CV
-[CV](https://github.com/seyransaakyan/SeyranSaakyan/blob/main/res.png)
+[CV](https://github.com/seyransaakyan/SeyranSaakyan/blob/main/CV.pdf)
 
 <details>
   <summary>:zap: Statistics:</summary>
