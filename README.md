@@ -51,6 +51,8 @@
 - [Calculator](https://github.com/seyransaakyan/Calculator)
 - [MySocialNetwork](https://github.com/seyransaakyan/MySocialNetwork)
 - [CS:GO CUSTOM HUD](https://github.com/Lanstats/CS-GO_hud)
+- [Traffic lights (swiftBookHW) ](https://github.com/seyransaakyan/swiftBookHW1)
+- [RGB Sliders (swiftBookHW)](https://github.com/seyransaakyan/swiftBookHW2-rgbSliders)
 <!-- APPS:END -->
 
 ### CV
