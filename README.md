@@ -50,6 +50,7 @@
 - [Login App](https://github.com/seyransaakyan/LoginApp)
 - [TrackList (MVC)](https://github.com/seyransaakyan/TrackList)
 - [PersonalizedQuiz (MVC)](https://github.com/seyransaakyan/PersonalizedQuiz)
+- [ContactList (MVC)](https://github.com/seyransaakyan/ContactList/)
 - [MyCard (визитка)](https://github.com/seyransaakyan/MyCard)
 - [Calculator](https://github.com/seyransaakyan/Calculator)
 - [MySocialNetwork](https://github.com/seyransaakyan/MySocialNetwork)
