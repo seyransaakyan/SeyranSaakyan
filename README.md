@@ -58,6 +58,7 @@
 - [BeerMarketApp (TeachMeSkillsHW)](https://github.com/seyransaakyan/BeerMarketApp-TeachMeSkillsHW-)
 - [Traffic lights (swiftBookHW) ](https://github.com/seyransaakyan/swiftBookHW1)
 - [RGB Sliders (swiftBookHW)](https://github.com/seyransaakyan/swiftBookHW2-rgbSliders)
+- [Tanks (TeachMeSkillsHW)](https://github.com/seyransaakyan/Tanks)
 <!-- APPS:END -->
 
 ### CV
