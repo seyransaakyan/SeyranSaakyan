@@ -48,6 +48,7 @@
 ### My Apps and Projects:
 <!-- APPS:START -->
 - [Login App](https://github.com/seyransaakyan/LoginApp)
+- [Submarine](https://github.com/seyransaakyan/Submarine)
 - [Do it list](https://github.com/seyransaakyan/DoItList)
 - [TrackList (MVC)](https://github.com/seyransaakyan/TrackList)
 - [PersonalizedQuiz (MVC)](https://github.com/seyransaakyan/PersonalizedQuiz)
